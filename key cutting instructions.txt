@@ -1,0 +1,36 @@
+Creating Kwikset "Super Bump" Keys
+by Deviant Ollam
+
+CC:BY-NC-SA
+
+These instructions accompany the video originally released here... https://www.youtube.com/watch?v=6YJIb7ii_cI
+
+NOTE: While HPC/Hudson make both a wheel-cutter as well as a punch style key origination tool in their 1200 Blitz series, this method will NOT likely go well for you if you attempt it using a punch machine.  When you start trying to invade into the shoulder and key bow, cutting action is severely compromised and you could in fact damage your punch die and anvil or, more likely, your key will not adequately insert into the proper position.  These instructions should be considered advice for people using a wheel-based key cutter machine.
+
+Step 0 - Verify that you are using a KW11 style blank (either a Kwikset original or a 3rd party aftermarket clone of this key blank) and that you have a Standard Kwikset Large Pin card loaded into your HPC/Hudson Blitz 1200 key machine.
+
+NOTE: You are going to make a series of very deep cuts on a key blade.  Verify that your key is properly loaded into the cutting jaw, indexed properly using the key machine's shoulder stop, and that it is clamped down securely.  If at any time your key machine motor bogs down or the sound of your cutting action changes, ease back on your rate of feed with the key.
+
+Step 1 - Make a cut in bitting position #1 to a depth just slightly beyond Kwikset's official "7" depth.
+
+Step 2 - Make a cut in bitting position #2 to a depth just slightly beyond Kwikset's official "7" depth.
+
+Step 3 - Make a cut in bitting position #3 to a depth just slightly beyond Kwikset's official "7" depth.
+
+Step 4 - Make a cut in bitting position #4 to a depth just slightly beyond Kwikset's official "7" depth.
+
+Step 5 - Make a cut in bitting position #5 to a depth just slightly beyond Kwikset's official "7" depth.
+
+Step 6 - Make a cut in bitting position #6 to a depth just slightly beyond Kwikset's official "7" depth.  Note that on the KW11 blank, this will not remove a significant amount of metal from the key.
+
+Step 7 - Switch to the Kwikset Titan card in your HPC/Hudson Blitz 1200 key machine.  Make a cut what shows as bitting position #1 on this new card (represented as the "T" position in the accompanying images) to a depth just slightly beyond Kwikset's official "7" depth.  A bit of the shoulder of the key blank will become cut by the key machine wheel during this process.
+
+Step 8 - Swich to a Micrometer Card in your HPC/Hudson Blitz 1200 key machine.  Adjust your key jaw carriage an additional 0.15" to the right, beyond any possible OEM key cutting position for Kwikset keys.  Make a cut to a depth just slightly beyond Kwikset's official "7" depth in this position (represented as the "B" position in the accompanying images) which will remove metal from the key bow.
+
+Step 9 - De-burr and inspect your resulting key.  There should be a smooth and uniform slope down from what remains of the original key bow to the bottom of the first of eight bitting cuts.  The thickness of the key blade in all eight bitting positions should not exceed 0.190"
+
+Optional Step 10 - Some folk may choose to also re-shape and smooth the original shoulder on the bottom side of their key, but this is not mandatory.  There is debate as to whether this action can increase the longevity of the Bump Key Bands that are used in conjunction with the "Super Bump" Key.
+
+NOTE: At least one and occasionally even sometimes two Bump Key Bands should always be employed when using the "Super Bump" Key for bumping attacks against target locks.
+
+Good luck and stay safe out there!
